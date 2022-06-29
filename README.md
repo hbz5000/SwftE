@@ -1,5 +1,5 @@
 # Storing Water for the Environment (SwftE)
-This repository contains all code and data to evaluate tradeoffs associated with Storing Water for the Environment (SwftE) in a hypothetical river basin with surface water storage, modeled after the Sacramento River Basin and Shasta Reservoir.  SwftE evaluates how allocating a portion of surface water storage and/or inflows impacts environmental ecosystem/flow objectives and how water deliveries to existing users could be affected.
+This repository contains all code and data to evaluate tradeoffs associated with Storing Water for the Environment (SwftE) in a hypothetical river basin with surface water storage, modeled after the Sacramento River Basin and Shasta Reservoir.  SwftE evaluates how dedicating a portion of surface water storage and/or inflows to environmental purposes impacts ecosystem temperature/flow objectives and what, if any, impact this has on deliveries to existing water uses, including in-basin M&I/Ag consumption, 'system' water needs (e.g., salinity control in a delta), wetland wildlife refuges, and exports to users outside of the basin.
 
 
 ## Installation and setup
