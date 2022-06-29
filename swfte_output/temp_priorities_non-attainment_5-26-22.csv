@@ -1,0 +1,17 @@
+Tw_priority,Run,Non-attainment,AvgAnn_months_non-attainment
+1,0mafEWB_10_T1,28,1.1
+1,0mafEWB_20_T1,45,1.7
+1,0mafEWB_30_T1,44,1.7
+1,0mafEWB_40_T1,20,0.8
+2,0mafEWB_10_T2,80,3.1
+2,0mafEWB_20_T2,102,3.9
+2,0mafEWB_30_T2,101,3.9
+2,0mafEWB_40_T2,101,3.9
+1,1025taf_pt_10_T1,22,0.8
+1,1025taf_pt_20_T1,32,1.2
+1,1025taf_pt_30_T1,39,1.5
+1,1025taf_pt_40_T1,55,2.1
+2,1025taf_pt_10_T2,69,2.7
+2,1025taf_pt_20_T2,87,3.3
+2,1025taf_pt_30_T2,106,4.1
+2,1025taf_pt_40_T2,126,4.8
